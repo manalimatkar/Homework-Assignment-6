@@ -1,0 +1,8 @@
+.btn{
+	margin-left: 5px;
+}
+.panel-body
+		{
+		    word-break:break-all;
+		    word-wrap: break-word;
+		}
